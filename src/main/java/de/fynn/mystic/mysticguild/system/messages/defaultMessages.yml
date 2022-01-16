@@ -1,0 +1,237 @@
+COMMAND:
+  COMMAND_NOT_FOUND:
+    'Command not found!'
+  ONLY_FOR_PLAYERS:
+    'Only player can perform this command!'
+  PLAYER_NOT_FOUND:
+    'The player %command_arg_0% does not exists!'
+  NO_PERMISSION:
+    'You need the permission %command_permission%!'
+  NO_GUILD:
+    'You have to be in a guild to perform this command!'
+  LANGUAGE_DOES_NOT_EXIST:
+    'The language %command_arg_0% does not exists!'
+INFO:
+  GUILD_CREATE:
+    'The guild %guild_name% was created'
+  GUILD_JOIN:
+    ''
+  GUILD_KICK:
+    ''
+  GUILD_LEAVE:
+    ''
+  GUILD_INVITE:
+    ''
+  GUILD_INVITE_ACCEPT:
+    ''
+  GUILD_INVITE_NO_INVITE:
+    ''
+  ROLE_CREATE:
+    ''
+  ROLE_DELETE:
+    ''
+  ROLE_RENAME:
+    ''
+  GUILD_RENAME:
+    ''
+ERROR:
+  DOUBLE_GUILD:
+    'A guild with this name already exists'
+  GUILD_FOUNDING:
+    ''
+  PLAYER_INVALID:
+    ''
+  GUILD_NAME_TO_SHORT:
+    'The guild name is to short (min. 4 chars)'
+  INVALID_CHAR:
+    'The guild name contains invalid chars (use a...z,A...Z)'
+QUESTION:
+  GUILD_NAME:
+    'Enter the guild name'
+  RENAME_GUILD_NAME:
+    'Enter the new guild name'
+  ROLE_NAME:
+    'Enter the role name'
+  RENAME_ROLE_NAME:
+    'Enter the new role name'
+  RENAME_PREFIX:
+    'Enter the new prefix'
+INVENTORY:
+  ACCEPT_DECLINE:
+    ''
+  CREATE_ALIANZ_ROLE:
+    ''
+  CREATE_GUILD_ROLE:
+    ''
+  DIPLOMATIE:
+    ''
+  GUILD_INFO:
+    ''
+  GUILD_INVENTORY:
+    ''
+  INVITE_PLAYER:
+    ''
+  LIST_ALIANZ_MEMBERS:
+    ''
+  LIST_ALL_ALIANZ:
+    ''
+  LIST_GUILD:
+    ''
+  MANAGE_ALIANZ_MEMBER:
+    ''
+  MANAGE_ALIANZ_ROLE:
+    ''
+  MANAGE_ATTRIBUTES:
+    ''
+  MANAGE_GUILD_ROLES:
+    ''
+  MANAGE_JOIN_REQUESTS:
+    ''
+  MANGE_MEMBER:
+    ''
+  MANAGE_ROLE:
+    ''
+  MEMBER_LIST:
+    ''
+  MY_ALIANZ:
+    ''
+  MY_GUILD:
+    ''
+  MY_INVITES:
+    ''
+  MY_JOIN_REQUESTS:
+    ''
+  NO_ALIANZ:
+    ''
+  NO_GUILD:
+    ''
+  SEARCH_GUILD:
+    ''
+  SELECT_ROLE:
+    ''
+  SET_STATUS:
+    ''
+  WAR_MODE:
+    ''
+ITEM:
+  GUILD_CREATE:
+    'Create guild'
+  GUILD_RENAME:
+    'Rename guild'
+  GUILD_LEAVE:
+    'Leave guild'
+  GUILD_CLOSE:
+    'Close guild'
+  GUILD_KICK:
+    'Kick members'
+  GUILD_INVITE:
+    ''
+  GUILD_INVITE_PLAYER:
+    'Invite player'
+  GUILD_INVITE_SEND:
+    'Invited players'
+  GUILD_LIST_MEMBERS:
+    'Memberlist'
+  GUILD_MANAGE:
+    'Manage guild'
+  GUILD_MANAGE_ATTRIBUTES:
+    'Edit guild attributes'
+  GUILD_ROLE_MANAGE:
+    'Edit role'
+  GUILD_ROLE_INCREASE_PRIORITY:
+    'Increase role priority'
+  GUILD_ROLE_DECREASE_PRIORITY:
+    'Decrease role priority'
+  GUILD_ROLE_CREATE:
+    'Create role'
+  GUILD_ROLE_SAVE:
+    'Save role'
+  GUILD_ROLE_DELETE:
+    'Delete role'
+  GUILD_ROLE_RENAME:
+    'Rename role'
+  GUILD_ROLES_MANAGE:
+    'Manage guild roles'
+  GUI_PREVIOUS:
+    'Previous'
+  GUI_NEXT:
+    'Next'
+  GUI_BACK:
+    'Back'
+  GUI_CLOSE:
+    'Close'
+  GUI_ACCEPT:
+    'Accept'
+  GUI_DECLINE:
+    'Decline'
+  MY_JOIN_REQUESTS:
+    'My join requests'
+  SEARCH_GUILD:
+    'Search guild'
+  MY_INVITES:
+    'My invites'
+  ALIANZ_CREATE:
+    'Create alianz'
+  ALIANZ_RENAME:
+    'Rename alianz'
+  ALIANZ_LEAVE:
+    'Leave alianz'
+  ALIANZ_CLOSE:
+    'Close alianz'
+  ALIANZ_KICK:
+    'Kick members'
+  ALIANZ_INVITE:
+    ''
+  ALIANZ_INVITE_GUILD:
+    'Invite guild'
+  ALIANZ_INVITE_SEND:
+    'Invited guilds'
+  ALIANZ_LIST_MEMBERS:
+    'Memberlist'
+  ALIANZ_MANAGE:
+    'Manage alianz'
+  ALIANZ_MANAGE_ATTRIBUTES:
+    'Edit attributes'
+  ALIANZ_ROLE_MANAGE:
+    'Edit role'
+  ALIANZ_ROLE_DECREASE_PRIORITY:
+    'Decrease role priority'
+  ALIANZ_ROLE_INCREASE_PRIORITY:
+    'Increase role priority'
+  ALIANZ_ROLE_CREATE:
+    'Create role'
+  ALIANZ_ROLE_SAVE:
+    'Save role'
+  ALIANZ_ROLE_DELETE:
+    'Delete role'
+  ALIANZ_ROLE_RENAME:
+    'Rename role'
+  ALIANZ_ROLES_MANAGE:
+    'Mange roles'
+PERMISSION:
+  MANAGE_MEMBER:
+    'Manage member'
+  MANAGE_GUILD:
+    'Manage guild'
+  MEMBER:
+    KICK:
+      'kick'
+    INVITE:
+      'invite'
+    ROLE:
+      'role'
+    ACCEPT:
+      'accept'
+    BAN:
+      'ban'
+  GUILD:
+    ROLE:
+      'role'
+    MONEY:
+      'money'
+    WAR:
+      'war'
+    INVENTORY:
+      'inventory'
+    ATTRIBUTES:
+      'attributes'

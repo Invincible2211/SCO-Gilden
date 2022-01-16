@@ -1,0 +1,24 @@
+name: MysticGuild
+version: 0.1
+main: de.fynn.mystic.mysticguild.MysticGuild
+api-version: 1.16
+prefix: MysticGuild
+softdepend: [ MysticLanguageAPI,MysticPlaceholderAPI ]
+authors: [ Fynn ]
+commands:
+  guild:
+    description: "Opens the guild GUI"
+  alianz:
+    description: "Opens the alianz GUI"
+  createwarinstance:
+    description: "creates a new war instance"
+permissions:
+  mysticguild.openguildgui:
+    description: "Give the permission to open the guild GUI"
+    default: true
+  mysticguild.openalianzgui:
+    description: "Give the permission to open the alianz GUI"
+    default: true
+  mysticguild.createwarinstance:
+    description: "Give the permission to create a new war instance"
+    default: op

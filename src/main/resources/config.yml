@@ -1,0 +1,26 @@
+language:
+  default:
+    'de_DE'
+database:
+  schema:
+    'gilden'
+  ip:
+    'localhost'
+  port:
+    '3306'
+  user:
+    'root'
+  password:
+    'Fynn2211'
+permission:
+  openGuildGUI:
+    'Sco.guild.openGUI'
+  openAlianzGUI:
+    'Sco.alianz.openGUI'
+  createWarInstance:
+    'Sco.war.createInstance'
+prefix:
+  customPluginPrefix:
+    '§9§l[§bSwordCraftOnline§9]§r'
+  prefixBeforeChatMessages:
+    true

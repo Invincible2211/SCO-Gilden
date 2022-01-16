@@ -1,0 +1,14 @@
+FoundingPrize:
+  0.0
+MaxSizeOnFound:
+  100
+SizePerLevel:
+  5
+XPPerLevel:
+  200000
+LevelModifierPerLevel:
+  1.3
+MaxLevel:
+  200
+XPFromKill:
+  0.2
