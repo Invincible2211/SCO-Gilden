@@ -1,8 +1,8 @@
-name: MysticGuild
+name: Guild
 version: 0.1
-main: de.fynn.mystic.mysticguild.MysticGuild
+main: Guild
 api-version: 1.16
-prefix: MysticGuild
+prefix: Guild
 softdepend: [ MysticLanguageAPI,MysticPlaceholderAPI ]
 authors: [ Fynn ]
 commands:
